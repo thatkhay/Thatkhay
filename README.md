@@ -38,7 +38,7 @@ Software engineer with expertise in front-end and back-end development as well a
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thatkhay&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/thatkhay)   
+
 
 
 
