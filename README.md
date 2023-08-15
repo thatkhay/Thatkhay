@@ -36,7 +36,7 @@ Software engineer with expertise in front-end and back-end development as well a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatkhay)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thatkhay&show_icons=true&count_private=true)  
+
 
 
 
